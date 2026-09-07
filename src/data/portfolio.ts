@@ -1,6 +1,6 @@
 export const profile = {
   name: 'Aaryan Mooley', role: 'Creative Developer & AI Builder', email: 'hello@averyquinn.dev',
-  intro: 'We build useful digital worlds where ambitious ideas become human-scale experiences.',
+  intro: 'I build useful digital worlds where ambitious ideas become human-scale experiences.',
   lore: 'Part systems thinker, part visual storyteller. I make thoughtful products at the seam of code, culture, and curiosity — then keep refining them until they feel inevitable.',
   avatarNote: 'Replace this composed placeholder with your portrait in src/assets.',
 };
